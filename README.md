@@ -4,7 +4,7 @@ Welcome to my CV repository! This repository contains my latest CV in various fo
 
 ## 📂 Files Included
 - `CV.pdf` - Ready-to-share version of my CV.
-- `CV.docx` - Editable version in Microsoft Word.
+- `CV.zip` - Editable version in Microsoft Word.
 - `CV.md` - Markdown version for online readability.
 
 ## 📌 How to Use
@@ -13,9 +13,8 @@ Welcome to my CV repository! This repository contains my latest CV in various fo
 - Use the **Markdown** file for online applications or GitHub Pages.
 
 ## 🌟 Contact Me
-📧 Email: [Your Email]  
-🔗 LinkedIn: [Your LinkedIn Profile]  
-💻 GitHub: [Your GitHub Profile]  
+📧 Email: [armanhossain4047@gmail.com]   
+💻 GitHub: [https://github.com/armanhossain4047/]  
 
 ---
 **Last Updated:** `YYYY-MM-DD`
