@@ -17,4 +17,4 @@ Welcome to my CV repository! This repository contains my latest CV in various fo
 💻 GitHub: [https://github.com/armanhossain4047/]  
 
 ---
-**Last Updated:** `YYYY-MM-DD`
+**Last Updated:** `2025-03-05`
